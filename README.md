@@ -1,0 +1,2 @@
+# VLCplayer-with-thread
+這是一段可以透過thread一次播放多個影片的簡單程式，使用pafy抓取youtube影片並以VLC撥放
